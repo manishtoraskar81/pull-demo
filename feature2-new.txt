@@ -1,2 +1,2 @@
-new feature2 is added
-some changes in feature2
+<h1>new feature2 is added</h1>
+<h2>some changes in feature2</h2>
